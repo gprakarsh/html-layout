@@ -1,0 +1,33 @@
+* {
+    max-height: 100vh
+}
+
+.header{
+    background-color:#666868;
+    height: 20vh;
+    width: 100%;
+}
+.leftbar{
+background-color: #E4E8EA;
+height:80vh;
+width:10%;
+position: relative;
+top:20vh;
+}
+
+.rightbar{
+    background-color: #E4E8EA;
+    height:80vh;
+    width:10%;
+    float: right;
+    position: relative;
+    bottom: 60vh
+    }
+.bottombar{
+    background-color: black;
+    width:80%;
+    height:10vh;
+    position: relative;
+    top:10vh;
+    left:9.8vw;
+}

@@ -1,0 +1,67 @@
+*{
+max-height: 100vh;
+}
+.header{
+    border:0.2vw solid black;
+    width:98vw;
+    height:20vh;   
+}
+.purple{
+    width:2vw;
+    height:14vh;
+    background-color: blueviolet;
+    position: relative;
+    bottom:15vh;
+    left:0.5vw
+}
+.green{
+    width:20vw;
+    height:19vh;
+    background-color:green;
+    position: relative;
+    bottom:34vh;
+    left:5vw;
+}
+.circle{
+    width:9.5vw;
+    height:19vh;
+    background-color:aqua;
+    position: relative;
+    bottom:53vh;
+    left:27vw;
+    border-radius:20vw; 
+}
+.secondrectangle{
+    border:0.2vw dotted black;
+    width:98vw;
+    height:30vh;
+    position: relative;
+    bottom: 50vh;
+}
+.yellowrectangle{
+    width:90vw;
+    height:20vh;
+    background-color: #F4FFAB;
+    position: relative;
+    bottom: 76vh;
+    left:4vw;
+    box-shadow: 5px 5px black;
+}
+.hello{
+    border: 0.015px solid black;
+    width:50vw;
+    height:24vh;       
+    text-align:center;
+    font-family: sans-serif; 
+    color: blue;
+    box-shadow: 2px 2px grey;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom:60vh;
+}
+
+

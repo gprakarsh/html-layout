@@ -1,0 +1,70 @@
+*{
+    max-height: 100vh
+}
+.grey{
+    background-color:#DADAD9;
+    width:110%;
+    height:10vh;
+    margin: 0;
+    padding:0;
+    border:none;
+    position: relative;
+    right:10vh;
+    bottom:1vh;
+}
+.blueicon{
+    background-color:#00A0F5;
+    width:4%;
+    height:8vh;
+    margin: 0;
+    padding:0;
+    border:none;
+    position: relative;
+    bottom:10vh;
+}
+.blue{
+    background-color:#00A0F5;
+    width:110%;
+    height:10vh;
+    margin: 0;
+    padding:0;
+    border:none;
+    position: relative;
+    right:10vh;
+    top:35vh;
+}
+.seagreen{
+    background-color:turquoise;
+    width:110%;
+    height:10vh;
+    margin: 0;
+    padding:0;
+    border:none;
+    position: relative;
+    right:10vh;
+    top:35vh;
+}
+.limegreen{
+    background-color:#CEF99B;
+    width:110%;
+    height:10vh;
+    margin: 0;
+    padding:0;
+    border:none;
+    position: relative;
+    right:10vh;
+    top:35vh;
+}
+.yellow{
+    background-color:yellow;
+    width:110%;
+    height:10vh;
+    margin: 0;
+    padding:0;
+    border:none;
+    position: relative;
+    right:10vh;
+    top:35vh;
+}
+
+
